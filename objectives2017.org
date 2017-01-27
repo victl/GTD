@@ -1,0 +1,122 @@
+* Get more control over my life, more organized
+** Review/Revise my agenda every week
+   SCHEDULED: <2017-01-23 Mon +1w>
+* Reading list
+** Self Cultivation
+*** Get Things Done
+Author: David Allen
+*** Guns, Germs, and Steel - The Fates of Human
+Author: Jared Diamond
+*** Psychology and Life
+*** Macroeconomics
+Author: N.Gregory Mankiw
+** Tech
+*** Convex Optimization
+*** Probabilistic Robotics
+*** Mobile Robotics
+* Career
+* Better life style
+** objectives
+*** Get rid of cigarettes
+** Recurring event
+*** TODO [Have a bath] every 2 days in winter, everyday in other season
+   SCHEDULED: <2017-01-18 Wed 06:00 .+2d>
+*** TODO [Wash my hair] everyday except already had a bath
+   SCHEDULED: <2017-01-18 Wed 06:00 .+2d>
+*** [Clean the room] every week
+   SCHEDULED: <2017-01-21 Sat 06:00 +1w>
+*** [Wash Clothes] every 2 weeks in winter, everyday in summer
+   SCHEDULED: <2017-01-28 Sat 06:00 .+2w>
+*** TODO [Clean my shoes] every day before leaving home
+    SCHEDULED: <2017-01-21 Sat 06:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    - State "DONE"       from "TODO"       [2017-01-18 Wed 19:23]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Taking meals timely] 3 meals everyday
+    SCHEDULED: <2017-01-20 Fri 06:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Brush teeth] twice a day
+    SCHEDULED: <2017-01-19 Thu 06:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Wash face] twice a day
+    SCHEDULED: <2017-01-19 Thu 06:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+** Daily Schedule
+*** TODO [Morning reading]
+    SCHEDULED: <2017-01-21 Sat 07:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-22 Sun 07:10]
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    - State "DONE"       from "TODO"       [2017-01-18 Wed 23:03]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-22 Sun 07:10]
+    :END:
+*** TODO [Have breakfast]
+    SCHEDULED: <2017-01-19 Thu 08:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Started working]
+    SCHEDULED: <2017-01-19 Thu 09:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Have lunch]
+    SCHEDULED: <2017-01-19 Thu 12:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Started working]
+    SCHEDULED: <2017-01-19 Thu 13:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:42]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:42]
+    :END:
+*** TODO [Have dinner]
+    SCHEDULED: <2017-01-19 Thu 18:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:43]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:43]
+    :END:
+*** TODO [Started working]
+    SCHEDULED: <2017-01-19 Thu 19:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:43]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:43]
+    :END:
+*** TODO [Free time]
+    SCHEDULED: <2017-01-19 Thu 21:00 +1d>
+    - State "DONE"       from "TODO"       [2017-01-19 Thu 23:43]
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-01-19 Thu 23:43]
+    :END:
+*** TODO [Sleep on time] 
+    SCHEDULED: <2017-01-18 Wed 23:00 +1d>
+* Currency control
+** Increase savings
+Basic goal: 150,000
+** Life sustaining spendings
+including foods, residence, etc
+** Life improving spendings
+including dressing, health caring, etc.
+general rule is no more than 10% of prev-month income
+** Special recurring spendings
+including mortgage, rent, etc.
+* Pay more attention to personal appearance
+* Tour
+* Family band

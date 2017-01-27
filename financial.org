@@ -1,0 +1,79 @@
+* General rules
+** For sustaining personal life
+*** the permissive monthly spending is: 200
+In action: <2017-01-18 Wed>
+#+STARTUP: hidestars
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE(d) CANCELLED(c)
+* 2016
+** 12
+*** <2016-12-26 Mon> [4/5]
+    - Note taken on [2016-12-26 Mon 11:32] \\
+      * the non-linear optimization programming with no constraint
+      ** multivariable optimization
+      *** zeroth order methods
+      **** Simplex search method
+      Although the name of this method includes the word simplex, it has no
+      relationship to the Simplex method of linear programming.
+      **** pathern search method
+      - a family of derivative-free numerical optimization methods.
+    - [ ] try to buy a train ticket to go back home
+    - [X] finish reading the optimization book using matlab (chapter 12)
+    - [X] modify the ROS velodyne drivers source code to fit our needs.
+    - [X] read the source code from CMU that calibration HDL with camera.
+    - [X] re-investigate the problem of HDL intrinsic calibration
+*** <2016-12-27 Tue> [4/4]
+- [X] try to buy a train ticket to go back home
+Failed to get a bed ticket, giving up hopes. Bought a seat ticket instead.
+- [X] read the Gauss-Markov model and Gauss-Helmert model related docs.
+<Geometric Algebra with Application in Engineering>
+Gauss-Markov model adjust the parameter set while Gauss-Helmert model not only
+adjust the parameters, but also observed data. Thus, Gauss-Markov model is more
+robust than Gauss-Helmert model, especially when the initial guess is far away
+from the true values. However, one could possibly obtain a better result after
+using Gauss-Markov model to derive a relatively good results, and send them as
+initial guess of Gauss-Helmert model.
+- [X] Go through the whole calibration procedure from the CMU lcct project.
+  + make sure it is working. update its interface to accommodate modern MCCT
+    toolbox.
+  + try to reuse it's source code to extract point cloud.
+- [X] rewrite the intrinsic calibration code to accommodate matrix operation and
+  parameter adjustment.
+*** <2016-12-28 Wed> [2/7]
+- [ ] Tencent project: let robot select road path center
+The local planner still has problem, so the whole system doesn't function
+properly. We've decided to build ROS from scratch to see if we could work around
+this issue. See the 3rd list.
+- [ ] Tencent project: facilities the robot with the ability to receive multiple
+  goals.
+For the same reason as list item #1, didn't finish.
+- [X] Build a ROS Kinetic from scratch on Tencent's TK1, make sure it works as
+  expected. Especially the local planner.
+- [X] hdl intrinsic calibration: turn raw packets to x,y,z easily
+- [ ] hdl intrinsic calibration: manual select plane points
+- [ ] hdl intrinsic calibration: ransac choosing plane parameters
+- [ ] hdl intrinsic calibration: refine plane parameters with Gauss-Helmert model.
+*** <2016-12-29 Thu> [0/3]
+- [ ] hdl intrinsic calibration: manual select plane points
+- [ ] hdl intrinsic calibration: ransac choosing plane parameters
+- [ ] hdl intrinsic calibration: refine plane parameters with Gauss-Helmert model.
+** For improving life conditions
+*** the permissive monthly spending is: 10% of prev-month income
+In action: <2017-01-18 Wed>
+** Special monthly spending:
+- Mortgage: 4000
+
+* 2016
+** January
+*** prev-month income:
+| From      |   Amount |
+|-----------+----------|
+| Mr. Song  |     5440 |
+| Momenta   |  6913.16 |
+| Gov       |    13000 |
+| THU       |      560 |
+|-----------+----------|
+| Total     | 25913.16 |
+|-----------+----------|
+| Improving | 2591.316 |
+- @7$2=@6$2/10
+- @6$2=vsum(@2..5)

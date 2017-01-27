@@ -1,0 +1,132 @@
+#+STARTUP: hidestars
+#+SEQ_TODO: PROJ(p) NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) | DONE(d) CANCELLED(c)
+#+ARCHIVE: archive.org::
+
+* Work
+** DONE complete the plane points selection program (matlab)
+*** Purpose & principles
+- Can efficiently select multiple planes from point clouds
+*** Outcome visioning
+- Good support for HDL calibration
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+- Manual selected plane points have might have some artifacts, may require a
+  ransac optimization.
+** DONE complete the camera capture program
+*** Purpose & principles
+- Capture camera outputs in ROS with low latency.
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+- Utilizing the nodelet infrastructure to minimize the data transfer overheads
+** DONE complete the ROS sensor snapshot program (camera snapshot portion)
+*** Purpose & principles
+- Capture HDL point cloud and camera image simultaneously on user demand
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+- turn it to a nodelet
+- change API from receiving topic to a service
+- add INS/IMU record module
+** PROJ complete a version of HDL intrinsic calibration program
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ record some intrinsic & extrinsic data
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ actually calculate the intrinsic parameters of HDL
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ optimize the result of HDL intrinsic parameters
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ actually calculate the extrinsic parameters relative to camera of HDL
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ optimize the result of extrinsic parameters relative to camera of HDL
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ find a suitable garage for our car
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+
+* Personal
+** PROJ Get some Spring Festival's gift for my parents
+   SCHEDULED: <2017-01-23 Mon 12:00>
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** DONE Get my hair cut
+   SCHEDULED: <2017-01-23 Mon 10:00>
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** PROJ Buy a belt
+   SCHEDULED: <2017-01-23 Mon 10:00>
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+    SCHEDULED: <2017-02-04 Sat>
+- Found a suitable one, the 'Glodlion' brand, 266rmb on Taobao. Buy it after the
+  sprint festival
+** DONE Buy a pant
+   SCHEDULED: <2017-01-23 Mon 10:00>
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+** CANCELLED Have a dinner with LYC
+    SCHEDULED: <2017-01-22 Sun 19:00>
+*** Purpose & principles
+*** Outcome visioning
+*** Brainstorming
+*** Organizing
+*** Identifying next actions
+- Wechat contact about time to dinner
+** DONE Do the housekeeping work before going back home
+   SCHEDULED: <2017-01-23 Mon 07:00>
+*** Purpose & principles
+- Going home on <2017-01-23 Mon>
+*** Outcome visioning
+
+*** Brainstorming
+- Room get tidy
+- Motor put into garage
+- Other personal projects above
+*** Organizing
+
+*** Identifying next actions
+- Unused shoes are put into plastic bags
+- Put the quilt into the bedspread
+- Electric devices are off
